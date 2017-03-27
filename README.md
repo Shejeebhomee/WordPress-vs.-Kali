@@ -63,6 +63,7 @@ List any additional assets, such as scripts or files
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
+GIF1 [Imgur](http://i.imgur.com/gudK32j.png)
 
 ## Notes
 
