@@ -7,23 +7,23 @@ Time spent: **15** hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Local URI's Server SIde Request Forgery
-  - [ ] Summary: 
+1. (Required) Local URI's Server Side Request Forgery
+  - [x] Summary: ability to create requests from the vulnerable server.
     - Vulnerability types: SSRF
     - Tested in version: 3.7 - 4.4.1
     - Fixed in version: 4.2.7
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/trunk/src/wp-includes/http.php?rev=36435) 
 1. (Required) Open redirect
-  - [ ] Summary: 
+  - [x] Summary: occurs when a web page is being redirected to another URL in another domain via a user-controlled input
     - Vulnerability types:
     - Tested in version: 3.7 - 4.4.1
     - Fixed in version: 4.2.7
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/trunk/tests/phpunit/tests/formatting/redirect.php?rev=36444)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
