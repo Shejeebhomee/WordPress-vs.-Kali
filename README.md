@@ -64,6 +64,8 @@ List any additional assets, such as scripts or files
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 GIF1 [Imgur](http://i.imgur.com/gudK32j.png)
+GIF2 [Imgur](http://i.imgur.com/q8RQm0q.png)
+GIF3 [Imgur](http://i.imgur.com/9k066gH.png)
 
 ## Notes
 
