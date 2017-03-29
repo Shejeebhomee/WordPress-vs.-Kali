@@ -71,6 +71,8 @@ GIF3 [Imgur](http://i.imgur.com/9k066gH.png)
 
 Describe any challenges encountered while doing the work:
 making wordpress run older versions: I have not been able to solve this issue but I did find some vulnerabilities
+these are the possible vulnerabilities I found. I am still working on getting the appropriate solutions.
+GIFs created with [LiceCap] (http://i.imgur.com/US3VhQ5.gif)
 
 ## License
 
